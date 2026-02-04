@@ -50,4 +50,4 @@ Tareas pendientes
 
 Imagen desde una URL
 
-https://upload.wikimedia.org/wikipedia/commons/0/09/MOS_6502AD_4585S.jpghola
+[https://upload.wikimedia.org/wikipedia/commons/0/09/MOS_6502AD_4585S.jpghola](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.diariodesevilla.es%2F2023%2F11%2F24%2Frealbetis%2FPalmerin-Curro-Expo-Betis-Palmas_1851125679_197766741_667x375.jpg&f=1&nofb=1&ipt=23b87b840b3e2679ecc49e80b2588592226435799188b8ad06554cd8406279ee)
